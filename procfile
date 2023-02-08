@@ -1,0 +1,1 @@
+web: streamlit run sp500-app.py
